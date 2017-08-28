@@ -1,0 +1,2 @@
+# CSRActionSheet
+自定义actionSheet，解决ipad上使用系统alearController崩溃的烦恼
